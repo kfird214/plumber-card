@@ -6,7 +6,7 @@
 
 - `index.html` - מבנה ותוכן האתר
 - `styles.css` - כל העיצוב, כולל CSS Variables ומצב כהה/בהיר
-- `assets/kfir-plumber.png` - תמונת הפרופיל
+- `assets/kfir-plumber.jpg` - תמונת הפרופיל
 
 ## הפעלה מקומית
 

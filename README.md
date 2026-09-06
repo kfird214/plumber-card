@@ -1,19 +1,10 @@
 # כרטיס ביקור דיגיטלי - כפיר דרשני
 
-אתר סטטי שנבנה ב-HTML וב-CSS בלבד בהתאם לדרישות המטלה.
+אתר סטטי שנבנה ב-HTML וב-CSS בלבד
+השינוי של ה color theme בין dark mode ן - light mode נעשה בעזרת CSS Variables.
 
 ## מבנה הפרויקט
 
 - `index.html` - מבנה ותוכן האתר
 - `styles.css` - כל העיצוב, כולל CSS Variables ומצב כהה/בהיר
-- `assets/kfir-plumber.jpg` - תמונת הפרופיל
-
-## הפעלה מקומית
-
-פתחו את `index.html` בדפדפן.
-
-## העלאה ל-GitHub Pages
-
-הקבצים כבר מסודרים להעלאה לשורש ה-Repository. ב-GitHub Pages יש לבחור פרסום מהענף `main` ומתיקיית השורש.
-
-> פרטי הקשר וקישורי GitHub/LinkedIn באתר הם פרטי דוגמה. יש להחליף אותם בפרטים הרצויים לפני ההגשה.
+- `assets/kfir-plumber.jpg` - תמונת פרופיל
